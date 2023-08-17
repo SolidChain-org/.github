@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This is a collection of projects both free to use and paid services. You can find me at @SlinkyPotato.
+This is a collection of open source projects. You can find me at @SlinkyPotato.
 
 <!--
 
